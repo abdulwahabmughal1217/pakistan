@@ -42,6 +42,7 @@ body{
     position: absolute;
     top: 30px;
     left: 40px;
+    transform: rotate(45deg);
 }
 .star span{
     font-size: 50px;
